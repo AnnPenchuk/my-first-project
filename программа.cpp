@@ -5,7 +5,7 @@
 #include "iostream"
 #include "cstdlib" // для system
 using namespace std;
-
+//я изменил программу
 int main()
 {
 	int a, b, p;
